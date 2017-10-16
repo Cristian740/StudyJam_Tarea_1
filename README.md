@@ -28,8 +28,8 @@ Captura
 
 <div align="center">
     <center>
-        <img src="/img/captura.png" width="300">
+        <img src="/img/captura_tarea1.png" width="300">
     </center>
 </div>
 <br><br>
-<a href="http://www.miramicodigo.com" target="_blank">@Gusn8</a>
+<a href="http://www.miramicodigo.com" target="_blank">@Cristian740</a>
